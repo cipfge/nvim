@@ -1,10 +1,10 @@
 # Neovim
 
-Simple neovim lua configuration
+My Neovim lua configuration
 
-## Installation
+## Setup
 
 ```
 cd ~/.config/
-git clone https://github.com/cpfuge/nvim.git
+git clone [repo-url]
 ```
